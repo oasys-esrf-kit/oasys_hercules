@@ -6,7 +6,7 @@ Follow the instructions here: https://github.com/oasys-kit/oasys-installation-sc
 
 ## Workspaces
 
-There are three workspaces for the course. You can download the full github repo, or (simpler) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
+There are three workspaces for the course. You can download this github repo, or (easier) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
 
 - https://tinyurl.com/hnfdrhat
 or 
