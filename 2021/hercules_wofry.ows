@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<scheme description="ESRF ID16NI" title="WOFRY EXAMPLES" version="2.0" working_directory="/home/srio/Oasys" workspace_units="1">
+<scheme description="WOFRY examples for HERCULES tutorial 2021" title="hercules 2021 wofry" version="2.0" working_directory="/users/srio/Oasys" workspace_units="0">
 	<nodes>
-		<node id="0" name="Generic Wavefront 2D" position="(181.0, 4.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_2D.OWGenericWavefront2D" title="Generic Wavefront 2D (Convergent Wavefront)" version="" />
-		<node id="1" name="Slit" position="(346.0, 14.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits.OWWOSlit" title="Slit 400x400 um" version="" />
-		<node id="2" name="Wavefront 2D to 1D" position="(502.0, -38.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.tools.ow_2D_to_1D.OW2Dto1D" title="Wavefront 2D to 1D" version="" />
-		<node id="3" name="Generic Wavefront 1D" position="(183.0, -135.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Convergent Wavefront)" version="" />
-		<node id="4" name="Slit 1D" position="(365.0, -135.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
-		<node id="5" name="DoubleSlit" position="(347.0, 120.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_double_slit.OWWODoubleSlit" title="DoubleSlit" version="" />
-		<node id="6" name="Screen" position="(501.0, 118.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_screen.OWWOScreen" title="Screen" version="" />
-		<node id="7" name="Generic Wavefront 1D" position="(96.0, 291.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Plane Wavefront)" version="" />
-		<node id="8" name="Slit 1D" position="(399.0, 290.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
-		<node id="9" name="Ideal Lens 1D" position="(264.0, 289.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_ideal_lens_1d.OWWOIdealLens1D" title="Ideal Lens 1D" version="" />
-		<node id="10" name="Generic Wavefront 1D" position="(102.0, 491.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Spherical Divergent Wavefront)" version="" />
-		<node id="11" name="Slit 1D" position="(396.0, 490.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
-		<node id="12" name="Ideal Lens 1D" position="(270.0, 492.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_ideal_lens_1d.OWWOIdealLens1D" title="Ideal Lens 1D (F=D/2)" version="" />
-		<node id="13" name="Generic Wavefront 1D" position="(103.0, 686.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Gaussian Wavefront) " version="" />
-		<node id="14" name="Ideal Lens 1D" position="(272.0, 685.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_ideal_lens_1d.OWWOIdealLens1D" title="Ideal Lens 1D (1) (1)" version="" />
-		<node id="15" name="Screen 1D" position="(413.0, 684.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_screen_1d.OWWOScreen1D" title="Screen 1D" version="" />
-		<node id="16" name="Generic Wavefront 1D" position="(597.0, -153.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Convergent Wavefront)" version="" />
-		<node id="17" name="Slit 1D" position="(739.0, -156.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
-		<node id="18" name="Undulator Light Source" position="(146.0, 929.0)" project_name="OASYS1-SYNED" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" title="Undulator Light Source" version="" />
-		<node id="19" name="Undulator Gaussian Shell-model 1D" position="(352.0, 879.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_undulator_gaussian_shell_model_1D.OWUndulatorGaussianShellModel1D" title="Undulator Gaussian Shell-model 1D" version="" />
-		<node id="20" name="Undulator Gaussian Shell-model 1D" position="(353.0, 1004.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_undulator_gaussian_shell_model_1D.OWUndulatorGaussianShellModel1D" title="Undulator Gaussian Shell-model 1D" version="" />
-		<node id="21" name="Wavefronts 1D to 2D" position="(558.0, 938.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.tools.ow_1D_to_2D.OW2Dto1D" title="Wavefronts 1D to 2D" version="" />
-		<node id="22" name="Undulator Gaussian Shell-model 2D" position="(359.0, 1133.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_undulator_gaussian_shell_model_2D.OWUndulatorGaussianShellModel2D" title="Undulator Gaussian Shell-model 2D" version="" />
+		<node id="0" name="Generic Wavefront 2D" position="(247.0, 571.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_2D.OWGenericWavefront2D" title="Generic Wavefront 2D (Convergent Wavefront)" version="" />
+		<node id="1" name="Slit" position="(412.0, 581.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits.OWWOSlit" title="Slit 400x400 um" version="" />
+		<node id="2" name="Wavefront 2D to 1D" position="(568.0, 529.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.tools.ow_2D_to_1D.OW2Dto1D" title="Wavefront 2D to 1D" version="" />
+		<node id="3" name="Generic Wavefront 1D" position="(249.0, 432.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Convergent Wavefront)" version="" />
+		<node id="4" name="Slit 1D" position="(431.0, 432.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
+		<node id="5" name="DoubleSlit" position="(413.0, 687.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_double_slit.OWWODoubleSlit" title="DoubleSlit" version="" />
+		<node id="6" name="Screen" position="(567.0, 685.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_screen.OWWOScreen" title="Screen" version="" />
+		<node id="7" name="Generic Wavefront 1D" position="(162.0, 858.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Plane Wavefront)" version="" />
+		<node id="8" name="Slit 1D" position="(465.0, 857.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
+		<node id="9" name="Ideal Lens 1D" position="(330.0, 856.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_ideal_lens_1d.OWWOIdealLens1D" title="Ideal Lens 1D" version="" />
+		<node id="10" name="Generic Wavefront 1D" position="(168.0, 1058.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Spherical Divergent Wavefront)" version="" />
+		<node id="11" name="Slit 1D" position="(462.0, 1057.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
+		<node id="12" name="Ideal Lens 1D" position="(336.0, 1059.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_ideal_lens_1d.OWWOIdealLens1D" title="Ideal Lens 1D (F=D/2)" version="" />
+		<node id="13" name="Generic Wavefront 1D" position="(169.0, 1253.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Gaussian Wavefront) " version="" />
+		<node id="14" name="Ideal Lens 1D" position="(338.0, 1252.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_ideal_lens_1d.OWWOIdealLens1D" title="Ideal Lens 1D (1) (1)" version="" />
+		<node id="15" name="Screen 1D" position="(479.0, 1251.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_screen_1d.OWWOScreen1D" title="Screen 1D" version="" />
+		<node id="16" name="Generic Wavefront 1D" position="(663.0, 414.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_generic_wavefront_1D.OWGenericWavefront1D" title="Generic Wavefront 1D (Convergent Wavefront)" version="" />
+		<node id="17" name="Slit 1D" position="(805.0, 411.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.beamline_elements.ow_slits_1d.OWWOSlit1D" title="Slit 1D" version="" />
+		<node id="18" name="Undulator Light Source" position="(212.0, 1496.0)" project_name="OASYS1-SYNED" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" title="Undulator Light Source" version="" />
+		<node id="19" name="Undulator Gaussian Shell-model 1D" position="(418.0, 1446.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_undulator_gaussian_shell_model_1D.OWUndulatorGaussianShellModel1D" title="Undulator Gaussian Shell-model 1D" version="" />
+		<node id="20" name="Undulator Gaussian Shell-model 1D" position="(419.0, 1571.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_undulator_gaussian_shell_model_1D.OWUndulatorGaussianShellModel1D" title="Undulator Gaussian Shell-model 1D" version="" />
+		<node id="21" name="Wavefronts 1D to 2D" position="(624.0, 1505.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.tools.ow_1D_to_2D.OW2Dto1D" title="Wavefronts 1D to 2D" version="" />
+		<node id="22" name="Undulator Gaussian Shell-model 2D" position="(425.0, 1700.0)" project_name="OASYS1-WOFRY" qualified_name="orangecontrib.wofry.widgets.wavefront_propagation.ow_undulator_gaussian_shell_model_2D.OWUndulatorGaussianShellModel2D" title="Undulator Gaussian Shell-model 2D" version="" />
 	</nodes>
 	<links>
 		<link enabled="true" id="0" sink_channel="WofryData" sink_node_id="4" source_channel="WofryData" source_node_id="3" />
@@ -45,12 +45,12 @@
 		<link enabled="true" id="16" sink_channel="SynedData" sink_node_id="22" source_channel="SynedData" source_node_id="18" />
 	</links>
 	<annotations>
-		<text font-family="Helvetica" font-size="16" id="0" rect="(35.0, -232.0, 372.0, 39.0)">Converging wavefront (collapsing spherical wave)</text>
-		<text font-family="Helvetica" font-size="16" id="1" rect="(38.0, 210.0, 277.0, 41.0)">Plane wavefront + Lens + Slit</text>
-		<text font-family="Helvetica" font-size="16" id="2" rect="(40.0, 376.0, 317.0, 60.0)">Divergent wavefront + Lens + Slit</text>
-		<text font-family="Helvetica" font-size="16" id="3" rect="(46.0, 597.0, 326.0, 60.0)">Gaussian wavefront + Lens (1:1 imaging)</text>
-		<text font-family="Helvetica" font-size="16" id="4" rect="(563.0, -236.0, 197.0, 57.0)">Undersampled (replicas)</text>
-		<text font-family="Helvetica" font-size="16" id="5" rect="(55.0, 799.0, 366.0, 79.0)">Partial coherence: GSM coherent modes</text>
+		<text font-family="Helvetica" font-size="16" id="0" rect="(101.0, 335.0, 372.0, 39.0)">Converging wavefront (collapsing spherical wave)</text>
+		<text font-family="Helvetica" font-size="16" id="1" rect="(104.0, 777.0, 277.0, 41.0)">Plane wavefront + Lens + Slit</text>
+		<text font-family="Helvetica" font-size="16" id="2" rect="(106.0, 943.0, 317.0, 60.0)">Divergent wavefront + Lens + Slit</text>
+		<text font-family="Helvetica" font-size="16" id="3" rect="(112.0, 1164.0, 326.0, 60.0)">Gaussian wavefront + Lens (1:1 imaging)</text>
+		<text font-family="Helvetica" font-size="16" id="4" rect="(629.0, 331.0, 197.0, 57.0)">Undersampled (replicas)</text>
+		<text font-family="Helvetica" font-size="16" id="5" rect="(121.0, 1366.0, 366.0, 79.0)">Partial coherence: GSM coherent modes</text>
 	</annotations>
 	<thumbnail />
 	<node_properties>
