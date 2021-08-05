@@ -1,7 +1,7 @@
 # oasys_hercules
 Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the HERCULES school
 
-## Download ans install Oasys:
+## Download and install Oasys:
 Follow the instructions here: https://github.com/oasys-kit/oasys-installation-scripts/wiki
 
 ## Workspaces
