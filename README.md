@@ -14,19 +14,22 @@ Follow the instructions here: https://github.com/oasys-kit/oasys-installation-sc
 
 ## Slides
 
-- https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_A_intro.pptx
-- https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_B_power_transport.pptx
-- https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_C_photon_transport.pptx
-- https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_D_coherence_transport.pptx
+- A) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_A_intro.pptx
+- B) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_B_power_transport.pptx
+- C) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_C_photon_transport.pptx
+- D) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2022_D_coherence_transport.pptx
 
 ## Workspaces
 
-There are four workspaces for the course. You can download this github repo (https://github.com/oasys-esrf-kit/oasys_hercules/archive/refs/heads/main.zip), or (easier) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
+There are four workspaces for the course. You can download this complete github repo (https://github.com/oasys-esrf-kit/oasys_hercules/archive/refs/heads/main.zip), or (easier) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
 
-- https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_power_transport.ows
-- https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_photon_transport.ows
-- https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_coherence_transport.ows
+- B) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_power_transport.ows
+- C) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_photon_transport.ows
+- D) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_coherence_transport.ows
 
+## Following the course
+
+The course can be followed using OASYS installed locally in your own laptop or, alternatively, via the http://pan-learning.org/ platform (no installation is required, but login as user is needed).
 
 ## More resources
 
