@@ -23,7 +23,8 @@ Follow the instructions here: https://github.com/oasys-kit/oasys-installation-sc
 
 There are four workspaces for the course. You can download this complete github repo (https://github.com/oasys-esrf-kit/oasys_hercules/archive/refs/heads/main.zip), or (easier) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
 
-- B) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_power_transport.ows
+- B1) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_power_transport_sources.ows
+- B2) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_power_transport_optical_elements.ows
 - C) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_photon_transport.ows
 - D) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules/main/2022/hercules_coherence_transport.ows
 
