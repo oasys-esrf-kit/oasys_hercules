@@ -14,10 +14,10 @@ Follow the instructions here: https://github.com/oasys-kit/oasys-installation-sc
 
 ## Slides
 
-- A) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2023_A_intro.pptx
-- B) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2023_B_power_transport.pptx
-- C) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2023_C_photon_transport.pptx
-- D) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2022/hercules2023_D_coherence_transport.pptx
+- A) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2023/hercules2023_A_intro.pptx
+- B) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2023/hercules2023_B_power_transport.pptx
+- C) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2023/hercules2023_C_photon_transport.pptx
+- D) https://github.com/oasys-esrf-kit/oasys_hercules/raw/main/2023/hercules2023_D_coherence_transport.pptx
 
 ## Workspaces
 
